@@ -1,0 +1,5 @@
+CD --> Navega entre as pastas
+Git Status --> Verifica o status dos arquivos e pastas que estão ou não "commitados"
+Git add . --> Põe os arquivos no repositório local
+Git commit -m "" --> Commita os arquivos. É importante deixar uma mensagem coerente no commit
+Git push origin main --> Coloca tudo que está na pasta no repositório do GITHUB
